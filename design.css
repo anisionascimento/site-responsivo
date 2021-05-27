@@ -23,7 +23,7 @@ header {
 }
 section.banner {
     width: 100%;
-    min-height: 500px;
+    min-height: 350px;
     background-color: darkblue;
     text-align: center;
     padding: 90px 0;
